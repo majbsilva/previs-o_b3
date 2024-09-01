@@ -1,0 +1,3 @@
+## README
+
+Repository for prediction of the best moment to seel a stock option.
